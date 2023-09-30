@@ -1,2 +1,1 @@
-# modul_2_
-HTML , CSS and Java script code contributed  by aarti ajnar
+# mod_2_solution
